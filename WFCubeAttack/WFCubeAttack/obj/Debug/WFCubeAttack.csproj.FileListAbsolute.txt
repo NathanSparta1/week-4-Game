@@ -1,0 +1,22 @@
+C:\Users\NIngleton\Documents\WFCubeAttack\WFCubeAttack\bin\Debug\WFCubeAttack.exe.config
+C:\Users\NIngleton\Documents\WFCubeAttack\WFCubeAttack\bin\Debug\WFCubeAttack.exe
+C:\Users\NIngleton\Documents\WFCubeAttack\WFCubeAttack\bin\Debug\WFCubeAttack.pdb
+C:\Users\NIngleton\Documents\WFCubeAttack\WFCubeAttack\obj\Debug\WFCubeAttack.csprojAssemblyReference.cache
+C:\Users\NIngleton\Documents\WFCubeAttack\WFCubeAttack\obj\Debug\WFCubeAttack.Properties.Resources.resources
+C:\Users\NIngleton\Documents\WFCubeAttack\WFCubeAttack\obj\Debug\WFCubeAttack.csproj.GenerateResource.cache
+C:\Users\NIngleton\Documents\WFCubeAttack\WFCubeAttack\obj\Debug\WFCubeAttack.csproj.CoreCompileInputs.cache
+C:\Users\NIngleton\Documents\WFCubeAttack\WFCubeAttack\obj\Debug\WFCubeAttack.exe
+C:\Users\NIngleton\Documents\WFCubeAttack\WFCubeAttack\obj\Debug\WFCubeAttack.pdb
+C:\Users\NIngleton\Documents\WFCubeAttack\WFCubeAttack\obj\Debug\WFCubeAttack.Form1.resources
+C:\Users\NIngleton\Documents\WFCubeAttack\WFCubeAttack\obj\Debug\WFCubeAttack.Form2.resources
+\\sg-fp01\Folder Redirections\NIngleton\Documents\WFCubeAttack\WFCubeAttack\bin\Debug\WFCubeAttack.exe.config
+\\sg-fp01\Folder Redirections\NIngleton\Documents\WFCubeAttack\WFCubeAttack\bin\Debug\WFCubeAttack.exe
+\\sg-fp01\Folder Redirections\NIngleton\Documents\WFCubeAttack\WFCubeAttack\bin\Debug\WFCubeAttack.pdb
+\\sg-fp01\Folder Redirections\NIngleton\Documents\WFCubeAttack\WFCubeAttack\obj\Debug\WFCubeAttack.csprojAssemblyReference.cache
+\\sg-fp01\Folder Redirections\NIngleton\Documents\WFCubeAttack\WFCubeAttack\obj\Debug\WFCubeAttack.Form1.resources
+\\sg-fp01\Folder Redirections\NIngleton\Documents\WFCubeAttack\WFCubeAttack\obj\Debug\WFCubeAttack.Form2.resources
+\\sg-fp01\Folder Redirections\NIngleton\Documents\WFCubeAttack\WFCubeAttack\obj\Debug\WFCubeAttack.Properties.Resources.resources
+\\sg-fp01\Folder Redirections\NIngleton\Documents\WFCubeAttack\WFCubeAttack\obj\Debug\WFCubeAttack.csproj.GenerateResource.cache
+\\sg-fp01\Folder Redirections\NIngleton\Documents\WFCubeAttack\WFCubeAttack\obj\Debug\WFCubeAttack.csproj.CoreCompileInputs.cache
+\\sg-fp01\Folder Redirections\NIngleton\Documents\WFCubeAttack\WFCubeAttack\obj\Debug\WFCubeAttack.exe
+\\sg-fp01\Folder Redirections\NIngleton\Documents\WFCubeAttack\WFCubeAttack\obj\Debug\WFCubeAttack.pdb
